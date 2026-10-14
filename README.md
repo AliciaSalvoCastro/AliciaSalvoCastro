@@ -42,6 +42,20 @@ I'm an IT Delivery Lead with **6+ years** managing Service Desk operations for g
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+
+![Alicia's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliciaSalvoCastro&show_icons=true&theme=default&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaSalvoCastro&layout=compact&theme=default&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AliciaSalvoCastro&color=0A66C2&style=flat)
+
+</div>
+
+---
+
 ### 📫 Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alícia-castro-19815b17a)
